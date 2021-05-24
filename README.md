@@ -24,6 +24,12 @@ This course can also be completed through self-study from this repository. To do
 
 Alternatively, if you don’t have and don’t want to create a Google account, you may instead install Anaconda on your computer by downloading the appropriate distribution from [here](https://www.anaconda.com/distribution/). The presentation and the Notebooks may be downloaded [here](https://github.com/coolernato/Introduction-to-Python/archive/master.zip). You can then open the notebooks using Anaconda (open them in the order written in the "Colab Links" section below). You can edit these files to add notes, run examples or write your solutions to the exercises. Under the code cell left blank for you to write your solution to these exercises and the code cell below contains a sample solution for you to compare your answer to.
 
+## Pacakages
+
+Whether you attend a face-to-face or webinar version of this course or if you intend to self-study, if you intend to run the code in Anaconda, install the following packes in your Python environment before you attend to avoid having to do so during the course:
+
+* matplotlib
+
 ## Colab Links
 
 The following are links to the Notebooks which will open in Google Colab. To use these links, you will need to log into a Google account. Once you click the link, you may see a page saying "Connected apps". If Google Colaboratory is in the list, click it to open the notebook. If it's not, click "Connect more apps...", search for "Colab" and connect the app before selecting it.
