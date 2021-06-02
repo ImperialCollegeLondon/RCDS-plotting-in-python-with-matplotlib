@@ -34,11 +34,11 @@ Whether you attend a face-to-face or webinar version of this course or if you in
 
 The following are links to the Notebooks which will open in Google Colab. To use these links, you will need to log into a Google account. Once you click the link, you may see a page saying "Connected apps". If Google Colaboratory is in the list, click it to open the notebook. If it's not, click "Connect more apps...", search for "Colab" and connect the app before selecting it.
 
-* [Overview and the Matplotlib Gallery](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/master/Overview and the Matplotlib Gallery.ipynb>)
-* [Plot Types - Discrete Data](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/master/Plot Types - Discrete Data.ipynb>)
-* [Plot Types - Continuous Data](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/master/Plot Types - Continuous Data.ipynb>)
-* [Plotting Data with Two Dimensions](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/master/Plotting Data with Two Dimensions.ipynb>)
-* [Customising Plots](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/master/Customising Plots.ipynb>)
-* [Multiple Plots](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/master/Multiple Plots.ipynb>)
-* [Saving Plots](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/master/Saving Plots.ipynb>)
-* [Projects](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/master/Projects.ipynb>)
+* [Overview and the Matplotlib Gallery](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Overview and the Matplotlib Gallery.ipynb>)
+* [Plot Types - Discrete Data](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Plot Types - Discrete Data.ipynb>)
+* [Plot Types - Continuous Data](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Plot Types - Continuous Data.ipynb>)
+* [Plotting Data with Two Dimensions](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Plotting Data with Two Dimensions.ipynb>)
+* [Customising Plots](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Customising Plots.ipynb>)
+* [Multiple Plots](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Multiple Plots.ipynb>)
+* [Saving Plots](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Saving Plots.ipynb>)
+* [Projects](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Projects.ipynb>)
