@@ -1,3 +1,5 @@
+# IMPORTANT NOTE: This file will not display an output in a Codespace environment
+
 import matplotlib.pyplot as plt
 import math
 
