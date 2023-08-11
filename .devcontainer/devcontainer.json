@@ -17,7 +17,9 @@
 	// Configure tool-specific properties.
 	"customizations": {
 	    "vscode": {
-	      "extensions": ["ms-python.python", "ms-toolsai.jupyter"]
+	      "extensions": [
+			"ms-python.python",
+			"ms-toolsai.jupyter"]
 	    }
 	  }
 
