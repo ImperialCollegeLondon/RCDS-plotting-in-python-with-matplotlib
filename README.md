@@ -4,41 +4,36 @@
 
 ### Webinar Instructions
 
-To complete this course, you will need to run Jupyter Notebook files on your computer. The easiest way to do this is to ensure you have a Google account. This will allow us to use the online Google Colab tool to run the notebooks on the day.
-
-Alternatively, if you don’t have and don’t want to create a Google account, you may instead install Anaconda on your computer by downloading the appropriate distribution from [here](https://www.anaconda.com/distribution/).
-
-The presentation and the Notebooks may be downloaded [here](https://github.com/coolernato/Plotting-in-Python-with-Matplotlib/archive/refs/heads/main.zip). If you want to undertake the course on your own laptop, you may want to download them. However, you do not need to read them before attending.
+To complete this course, you will need to run Jupyter Notebook files on your computer. You can run the files in a Codespace (see the intructions [below](#-opening-a-codespace)) or locally on your own computer (see the instructions [below](#-running-the-course-locally)). If you intend to run it locally, you should make sure you have installed the appropriate packages outline in the [Packages](#packages) section below before the course.
 
 ### Face to Face Course Instructions
 
-This course will take place in an ICT computer room and so laptops are not required but you may bring one if you wish. Please make sure it is fully charged. This course will involve the running of Jupyter Notebook files. The easiest way to do this is to ensure you have a Google account. This will allow you to use the online Google Colab tool to run the notebooks on the day.
-
-Alternatively, if you don’t have and don’t want to create a Google account, Imperial computers (including those in the computer rooms) will have Anaconda available to them through the Software Hub which will also allow the running of Jupyter Notebooks. You may also chose to install Anaconda on your personal machine by downloading the appropriate distribution from [here](https://www.anaconda.com/distribution/).
-
-The presentation and the Notebooks may be downloaded [here](https://github.com/coolernato/Plotting-in-Python-with-Matplotlib/archive/refs/heads/main.zip). If you want to undertake the course on your own laptop, you may want to download them. However, you do not need to read them before attending.
+This course will take place in a college computer room. To complete this course, you will need to run Jupyter Notebook files on your computer. You can do this either on a College computer or on your own laptop. You can run the files in a Codespace (see the intructions [below](#-opening-a-codespace)) or locally (see the instructions [below](#-running-the-course-locally)). If you intend to run it locally, you should make sure you have installed the appropriate packages outline in the [Packages](#packages) section below before the course.
 
 ### Self-Study Instructions
 
-This course can also be completed through self-study from this repository. To do this, you will need to run the Jupyter Notebooks on your computer. The easiest way to do this is to ensure you have a Google account and are logged in on the your browser. Then, you can follow the links in the "Colab Links" section of this file in order from top-to-bottom in order to work through the notebooks. You will need to create a copy of the notebooks by clicking File>Save a Copy in Drive. This will create a copy of the notebook in your Google Drive and allow you to edit it to add notes, run examples and complete exercises. Underneath the code cells left for you to complete each exercise, there will be a code cell saying "Show Code". Clicking on this will show a sample solution to check your answer.
+This course can also be completed through self-study from this repository. To do this, you will need to run the Jupyter Notebooks on your computer. Thsee should be studied in numerical order. You should read the descriptions, examine the examples, and complete the exercises.
 
-Alternatively, if you don’t have and don’t want to create a Google account, you may instead install Anaconda on your computer by downloading the appropriate distribution from [here](https://www.anaconda.com/distribution/). The presentation and the Notebooks may be downloaded [here](https://github.com/coolernato/Plotting-in-Python-with-Matplotlib/archive/refs/heads/main.zip). You can then open the notebooks using Anaconda (open them in the order written in the "Colab Links" section below). You can edit these files to add notes, run examples or write your solutions to the exercises. Under the code cell left blank for you to write your solution to these exercises and the code cell below contains a sample solution for you to compare your answer to.
+You will need to run Jupyter Notebook files on your computer. You can run the files in a Codespace (see the intructions [below](#-opening-a-codespace)) or locally on your own computer (see the instructions [below](#-running-the-course-locally)). If you intend to run it locally, you should make sure you have installed the appropriate packages outline in the [Packages](#packages) section below before the course.
 
-## Pacakages
+## Opening a Codespace
+
+A [Codespace](https://docs.github.com/en/codespaces/overview) is a development environment hosted by GitHub directly from a repository. To use this, you will need to be signed into a GitHUb account. To open the Codespace, click the green ```Code``` button at the top right of the repository. Make sure you're in the ```Codespaces``` tab and click the ```Create New Codespace on Master``` button. This will create a codespace of your own. This will take a minute or so to initialise. You may be asked to reload the page. If so, do reload the page.
+
+Once your Codespace has initialised, it will remain assocaited with your GitHub account for around a month, when it will expire. Your Codespace will be given a name like "fuzzy-barnacle" so you can identify it. To reopen it on a future occassion, click the ```Code``` button again, then select the Codespace and open it.
+
+To download the content of the files within the Codespace, open the Files tab on the left, select the files, right click and click ```Download``` button. Alternatively, if you're familiar with GitHub, you can open the source control tab on the left, you can commit and push changes. This will fork the repsoitory with your changes. Either of these options will allow you to keep a copy of the course notes with your solutions to the exercises, etc.
+
+## Running the Course Locally
+
+If you want to run teh course notes locally, you can download them by clicking [here](https://github.com/coolernato/Plotting-in-Python-with-Matplotlib/archive/refs/heads/main.zip). Extract the files to a location of your choice on your computer. You can open the notebooks from here using Jupyter in Anaconda, inside VS Code, or wherever else you like to run JupyterNotebooks.
+
+## Packages
 
 Whether you attend a face-to-face or webinar version of this course or if you intend to self-study, if you intend to run the code in Anaconda, install the following packes in your Python environment before you attend to avoid having to do so during the course:
 
 * matplotlib
+* numpy
+* ipykernel
 
-## Colab Links
-
-The following are links to the Notebooks which will open in Google Colab. To use these links, you will need to log into a Google account. Once you click the link, you may see a page saying "Connected apps". If Google Colaboratory is in the list, click it to open the notebook. If it's not, click "Connect more apps...", search for "Colab" and connect the app before selecting it.
-
-* [Overview and the Matplotlib Gallery](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Overview and the Matplotlib Gallery.ipynb>)
-* [Plot Types - Discrete Data](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Plot Types - Discrete Data.ipynb>)
-* [Plot Types - Continuous Data](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Plot Types - Continuous Data.ipynb>)
-* [Plotting Data with Two Dimensions](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Plotting Data with Two Dimensions.ipynb>)
-* [Customising Plots](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Customising Plots.ipynb>)
-* [Multiple Plots](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Multiple Plots.ipynb>)
-* [Saving Plots](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Saving Plots.ipynb>)
-* [Projects](<https://colab.research.google.com/github/coolernato/Plotting-in-Python-with-Matplotlib/blob/main/Projects.ipynb>)
+These packages are also specified in the ```requirements.txt``` file, which you can use to install the appropriate files if you're familair with requirements files.
