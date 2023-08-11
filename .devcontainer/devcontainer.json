@@ -16,7 +16,7 @@
 	// Configure tool-specific properties.
 	"customizations": {
 	    "vscode": {
-	      "extensions": [ms-python.python]
+	      "extensions": ["ms-python.python"]
 	    }
 	  }
 
