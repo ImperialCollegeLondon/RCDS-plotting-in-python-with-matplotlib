@@ -4,17 +4,17 @@
 
 ### Webinar Instructions
 
-To complete this course, you will need to run Jupyter Notebook files on your computer. You can run the files in a Codespace (see the intructions [below](#-opening-a-codespace)) or locally on your own computer (see the instructions [below](#-running-the-course-locally)). If you intend to run it locally, you should make sure you have installed the appropriate packages outline in the [Packages](#packages) section below before the course.
+To complete this course, you will need to run Jupyter Notebook files on your computer. You can run the files in a Codespace (see the intructions [below](#opening-a-codespace)) or locally on your own computer (see the instructions [below](#running-the-course-locally)). If you intend to run it locally, you should make sure you have installed the appropriate packages outline in the [Packages](#packages) section below before the course.
 
 ### Face to Face Course Instructions
 
-This course will take place in a college computer room. To complete this course, you will need to run Jupyter Notebook files on your computer. You can do this either on a College computer or on your own laptop. You can run the files in a Codespace (see the intructions [below](#-opening-a-codespace)) or locally (see the instructions [below](#-running-the-course-locally)). If you intend to run it locally, you should make sure you have installed the appropriate packages outline in the [Packages](#packages) section below before the course.
+This course will take place in a college computer room. To complete this course, you will need to run Jupyter Notebook files on your computer. You can do this either on a College computer or on your own laptop. You can run the files in a Codespace (see the intructions [below](#opening-a-codespace)) or locally (see the instructions [below](#running-the-course-locally)). If you intend to run it locally, you should make sure you have installed the appropriate packages outline in the [Packages](#packages) section below before the course.
 
 ### Self-Study Instructions
 
 This course can also be completed through self-study from this repository. To do this, you will need to run the Jupyter Notebooks on your computer. Thsee should be studied in numerical order. You should read the descriptions, examine the examples, and complete the exercises.
 
-You will need to run Jupyter Notebook files on your computer. You can run the files in a Codespace (see the intructions [below](#-opening-a-codespace)) or locally on your own computer (see the instructions [below](#-running-the-course-locally)). If you intend to run it locally, you should make sure you have installed the appropriate packages outline in the [Packages](#packages) section below before the course.
+You will need to run Jupyter Notebook files on your computer. You can run the files in a Codespace (see the intructions [below](#opening-a-codespace)) or locally on your own computer (see the instructions [below](#running-the-course-locally)). If you intend to run it locally, you should make sure you have installed the appropriate packages outline in the [Packages](#packages) section below before the course.
 
 ## Opening a Codespace
 
