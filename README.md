@@ -28,6 +28,8 @@ To download the content of the files within the Codespace, open the Files tab on
 
 If you want to run the course notes locally, you can download them by clicking [here](https://github.com/coolernato/Plotting-in-Python-with-Matplotlib/archive/refs/heads/main.zip). Extract the files to a location of your choice on your computer. You can open the notebooks from here using Jupyter in Anaconda, inside VS Code, or wherever else you like to run JupyterNotebooks.
 
+### Packages
+
 If you intend to downalod the course materials and use them locally,, install the following packages in your Python environment before you attend/begin self-studying the course:
 
 * matplotlib
