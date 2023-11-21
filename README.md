@@ -30,7 +30,7 @@ If you want to run the course notes locally, you can download them by clicking [
 
 ### Packages
 
-If you intend to downalod the course materials and use them locally,, install the following packages in your Python environment before you attend/begin self-studying the course:
+If you intend to downalod the course materials and use them locally, install the following packages in your Python environment before you attend/begin self-studying the course:
 
 * matplotlib
 * numpy
