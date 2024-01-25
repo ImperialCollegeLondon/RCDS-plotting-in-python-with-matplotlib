@@ -35,5 +35,6 @@ If you intend to downalod the course materials and use them locally, install the
 * matplotlib
 * numpy
 * ipykernel
+* scipy
 
 These packages are also specified in the ```requirements.txt``` file, which you can use to install the appropriate files if you're familiar with requirements files.
