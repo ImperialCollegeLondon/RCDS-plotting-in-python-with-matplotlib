@@ -38,3 +38,9 @@ If you intend to downalod the course materials and use them locally, install the
 * scipy
 
 These packages are also specified in the ```requirements.txt``` file, which you can use to install the appropriate files if you're familiar with requirements files.
+
+## Post-Course Follow-Up: ReCoDE Exemplar
+The RCDS team has curated a collection of annotated [exemplar projects](https://imperialcollegelondon.github.io/ReCoDE-home/exemplars/) known as [ReCoDE](https://imperialcollegelondon.github.io/ReCoDE-home/) which demonstrate core research computing and data science principles applied to real problems. Each exemplar is a real project created by an Imperial student based on their research. Each exemplar is accompanied by detailed descriptions of how they work, and the design decisions taken when constructing the code. There are two Fortran exemplars:
+
+* [**Euler Maruyama Method**](https://imperialcollegelondon.github.io/ReCoDe-Euler-Maruyama/): This exemplar focuses on solving Stochastic Differential Equations in Python. The code uses matplotlib to plot its outputs, including from Numpy arrays.
+* [**SPH Solver for 2D Navier-Stokes**](https://imperialcollegelondon.github.io/ReCoDE-SPH-solver-2D-NS/): This exemplar solves the Navier-Stokes equation in 2D using the SPH method. The code is written in C++ but its outputs are read from a file using a Python script and plotted using matplotlib.
