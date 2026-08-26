@@ -4,7 +4,7 @@
 
 ### Webinar Instructions
 
-To complete this course, you will need to run Jupyter Notebook files on your computer. You can run the files in a Codespace (see the instructions [below](#opening-a-codespace)) or locally on your own computer (see the instructions [below](#running-the-course-locally)). If you intend to run it locally, you should make sure you have installed the appropriate packages outline in the [Packages](#packages) section below before the course.
+To complete this course, you will need to run Jupyter Notebook files on your computer. You can run the files in a Codespace (see the instructions [below](#opening-a-codespace)) or locally on your own computer (see the instructions [below](#running-the-course-locally)). If you intend to run it locally, you should make sure you have installed the appropriate packages outlined in the [Packages](#packages) section below before the course.
 
 ### Face to Face Course Instructions
 
